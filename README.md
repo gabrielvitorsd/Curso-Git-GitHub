@@ -1,2 +1,2 @@
 # Curso-Git-GitHub
- Teste de criação do primeiro repositório versionado
+ Teste de criação do primeiro repositório versionado.
